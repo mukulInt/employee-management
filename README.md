@@ -1,3 +1,7 @@
+Database Configuration
+This project uses H2 in-memory database for development and testing purposes. The database runs in-memory, so all data is lost when the application stops.
+
+
 Employee API Endpoints
 1. Create Employee
     Method: POST
